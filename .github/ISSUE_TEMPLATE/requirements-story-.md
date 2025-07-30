@@ -1,7 +1,7 @@
 ---
-name: 'Requirments STory '
+name: 'Requirements Story '
 about: Describe this issue template's purpose here.
-title: ''
+title: Requirements Story 1
 labels: ''
 assignees: ''
 
